@@ -24,4 +24,12 @@ Sample patient analysis:
 
 ![alt text](https://github.com/nirvana1707/pulmonary-fibrosis-progression/blob/main/images/patient_eda.PNG)
 
+Example CT scan:
+![alt text](https://github.com/nirvana1707/pulmonary-fibrosis-progression/blob/main/images/ctscans.PNG)
+
+Image processing:
+![alt text](https://github.com/nirvana1707/pulmonary-fibrosis-progression/blob/main/images/image_contrast.PNG)
+
+
+
 
