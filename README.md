@@ -13,7 +13,7 @@ Open Source Imaging Consortium (OSIC), a group that enables rapid advances in th
 
 ## Methodology
 
-The methodology consists of exploring an ensemble approach based on ResNet and quantile regression along with tuning of hyperparameters
+The methodology consists of exploring an ensemble approach based on EfficientNet and quantile regression along with tuning of hyperparameters
 
 ## Results
 The ensemble approach resulted in below scores:
